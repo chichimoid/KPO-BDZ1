@@ -1,0 +1,103 @@
+{
+  "BankAccounts": [
+    {
+      "Id": {
+        "Value": 0
+      },
+      "Balance": {
+        "Value": 901.0
+      },
+      "Name": "First",
+      "History": [
+        {
+          "Id": {
+            "Value": 0
+          },
+          "Type": 0,
+          "BankAccountId": {
+            "Value": 0
+          },
+          "Amount": 1000.0,
+          "Date": "2025-03-21T00:43:45.9274816+03:00",
+          "Description": "Big money came",
+          "CategoryId": {
+            "Value": 1
+          }
+        },
+        {
+          "Id": {
+            "Value": 1
+          },
+          "Type": 1,
+          "BankAccountId": {
+            "Value": 0
+          },
+          "Amount": 99.0,
+          "Date": "2025-03-21T00:44:26.7952602+03:00",
+          "Description": "Small money go",
+          "CategoryId": {
+            "Value": 0
+          }
+        }
+      ]
+    },
+    {
+      "Id": {
+        "Value": 1
+      },
+      "Balance": {
+        "Value": 0.0
+      },
+      "Name": "Second",
+      "History": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": {
+        "Value": 0
+      },
+      "Type": 1,
+      "Name": "Stuff"
+    },
+    {
+      "Id": {
+        "Value": 1
+      },
+      "Type": 0,
+      "Name": "Paycheck"
+    }
+  ],
+  "Operations": [
+    {
+      "Id": {
+        "Value": 0
+      },
+      "Type": 0,
+      "BankAccountId": {
+        "Value": 0
+      },
+      "Amount": 1000.0,
+      "Date": "2025-03-21T00:43:45.9274816+03:00",
+      "Description": "Big money came",
+      "CategoryId": {
+        "Value": 1
+      }
+    },
+    {
+      "Id": {
+        "Value": 1
+      },
+      "Type": 1,
+      "BankAccountId": {
+        "Value": 0
+      },
+      "Amount": 99.0,
+      "Date": "2025-03-21T00:44:26.7952602+03:00",
+      "Description": "Small money go",
+      "CategoryId": {
+        "Value": 0
+      }
+    }
+  ]
+}

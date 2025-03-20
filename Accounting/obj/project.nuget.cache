@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wz9IYgPE2dk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vx\\RiderProjects\\Accounting\\KPO-BDZ1\\Accounting\\Accounting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vx\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0-preview.1.25080.5\\microsoft.extensions.dependencyinjection.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\vx\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.1.25080.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.1.25080.5.nupkg.sha512",
+    "C:\\Users\\vx\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
